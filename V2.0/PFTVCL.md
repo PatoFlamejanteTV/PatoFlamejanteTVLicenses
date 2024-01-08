@@ -12,6 +12,8 @@ removing things like comments from the source code or cutting parts of the video
 of this would be to record someone saying _"I like puppies"_ and cut the _"puppies"_ part for something inappropriate
 or vulgar, **independent of intention.**
 
+# Considerations for licensors 
+
 **Our licenses are _irrevocable_. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license.**
 
 THERE IS NO WARRANTY FOR THE WORK, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN
