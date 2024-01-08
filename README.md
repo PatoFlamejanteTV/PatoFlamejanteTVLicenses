@@ -5,3 +5,5 @@ The license of this license is Unlicense/Public Domain, just CTRL+C and CTRL+V t
 
 [V1.0 Licenses](/V1.0)
 [V2.0 Licenses](/V2.0)
+
+[Check it on Github](https://github.com/PatoFlamejanteTV/PatoFlamejanteTVCommonsLicense)
