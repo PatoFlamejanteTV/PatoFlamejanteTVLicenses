@@ -1,4 +1,4 @@
-            The work <name> of <author> is under BadApple 1.0
+                 The work [name] of [author] is under BadApple 1.0
   Any individual is free to use excerpts from the code, but anywhere
   in the code that the individual used, will have to have an part,
   a frame, a piece of audio from the song "Bad Apple" from Lotus Land Story.
