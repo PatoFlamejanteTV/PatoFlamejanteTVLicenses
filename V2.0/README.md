@@ -1,2 +1,2 @@
 # PatoFlamejanteTVCommonsLicense/V2.0
-2.0 versions of the licenses [PatoFlamejanteTVCommonsLicense](/V2.0/PFTVCL.md)
+2.0 versions of the licenses [PatoFlamejanteTVCommonsLicense](PFTVCL.md)
