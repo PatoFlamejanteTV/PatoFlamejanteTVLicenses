@@ -4,3 +4,4 @@
 - [PatoFlamejanteTVCommonsLicense-Allow-commertial](PFTVC-allow-commertial.md)
 - [PatoFlamejanteTVCommonsLicense-No-commertial](PFTVC-no-commertial.md).
 - [PATOFTU (PATO Free-To-Use)](PATOFTU.txt).
+- [PFTV-General-License](PFTV-General-License.md)
